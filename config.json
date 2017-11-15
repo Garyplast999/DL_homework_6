@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Лапариди Георгий"
+  },
+  "text": {
+    "more": "Оранжевым цветом представлены некоторые дальние члены моей семьи. Зелёная сетка отображает моих нынешних однокурсников, с которыми я познакомился в этом году.Синий цвет и фиолетовый соплетены относительно тесно,\n так как в нем находятся мои однокурсники  с прошлого года, они учились со мной на факультете философии, с многими из них я общаюсь и сейчас. Многие друзья и знакомые, связи с которыми проистекают из школы, здесь \nне представлены, так как аккаунт создавался дважды, с частью из них диалог происходит в иных мессендерах и соц.сетях ( иногда )",
+    "intro": "Домашнее задание 6 по цифровой грамотности. Анализ социальных сетей. Анализ друзей ВКонтакте.",
+    "title": "Анализ социальных сетей"
+  },
+  "legend": {
+    "edgeLabel": "Общие друзья",
+    "colorLabel": "Принадлежность к группе ",
+    "nodeLabel": "Друзья"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
